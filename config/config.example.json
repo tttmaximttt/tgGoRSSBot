@@ -1,0 +1,7 @@
+{
+  "logger": {
+    "logLevel": "log level for you logger LOG_LEVEL"
+  },
+  "botToken": "you bot token BOT_TOKEN",
+  "webhookURL": "https://f3184e2f.ngrok.io"
+}
