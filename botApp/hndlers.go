@@ -2,7 +2,7 @@ package botApp
 
 import ("gopkg.in/telegram-bot-api.v4")
 
-func Handle(message tgbotapi.Message) error {
+func Handle(message tgbotapi.Message) {
   if message.IsCommand() {
     // handle command
   } else {
